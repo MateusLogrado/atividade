@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(216, 139, 171);
+    text-align: center;
+}
+
+#box{
+    border: 7px solid black;
+    height: 260px;
+    width: 500px;
+    margin-left: 30rem;
+    margin-top: 8rem;
+}
+

@@ -1,0 +1,13 @@
+body{
+    background: linear-gradient(to right, rgb(237, 74, 74), rgb(234, 80, 131));
+    text-align: center;
+    font-size: 1.5rem;
+    height: 100vh;
+    font-family: Georgia;
+}
+
+button, input{
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+}
